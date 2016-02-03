@@ -1,0 +1,57 @@
+Disease,Chromosome,Gene,SNP
+Handedness,B,CTNNA2,rs1446109
+Handedness,,,rs1007371
+Handedness,,,rs723524
+Happiness,17,SLC6A4 (SERT or 5HTT),rs25531
+Happiness,,,rs2020933
+Hyperactivity,22,COMT,rs6269
+Hyperactivity,,,rs4633
+Hyperactivity,,,rs4818
+Hyperactivity,,,rs4680
+Hyperactivity,,,rs165599
+Hyperactivity,,,rs2097903
+Intelligence / IQ,5,ADRB2,
+Intelligence / IQ,7,CHRM2,rs324640
+Intelligence / IQ,,,rs324650
+Intelligence / IQ,,,rs2061174
+Intelligence / IQ,,,rs2350780
+Intelligence / IQ,,,rs6948054
+Intelligence / IQ,,,rs7810473
+Intelligence / IQ,,,rs1364402
+Intelligence / IQ,,,rs1378646
+Intelligence / IQ,,,rs7782965
+"Intelligence / IQ (cognitive abilities, attention, memory)",6,DTNBP1,rs3213207
+"Intelligence / IQ (cognitive abilities, attention, memory)",,,rs760761
+"Intelligence / IQ (cognitive abilities, attention, memory)",,,rs1011313
+"Intelligence / IQ (cognitive abilities, attention, memory)",,,rs2619522
+"Intelligence / IQ (cognitive abilities, attention, memory)",,,rs2619528
+"Intelligence / IQ (cognitive abilities, attention, memory)",,,rs2619538
+"Intelligence / IQ (cognitive abilities, attention, memory)",,,rs2619539
+"Intelligence / IQ (cognitive abilities, attention, memory)",11,BDNF,rs6265
+Intelligence / IQ (non-verbal),20,SNAP25,rs363039
+Intelligence / IQ (non-verbal),,,rs363043
+Intelligence / IQ (non-verbal),,,rs353016
+Intelligence / IQ (non-verbal),,,rs363050
+Intelligence (higher IQ if breastfed),11,FADS2,rs1535
+Intelligence (higher IQ if breastfed),,,rs174575
+Intelligence (learning from errors),11,ANKK1,rs1800497
+Intelligence (less cognitive decline with age),A,DISC1,rs821616
+Intelligence (less cognitive decline with age),10,SIRT1,rs3758391
+Memory,8,intergenic,rs35753505
+Memory (verbal),6,TNF,rs361525
+Memory (long-term; logical),22,PRNP,rs1799990
+Memory (episodic),A,CAMTA1,rs4908449
+Memory (episodic),3,CLSTN2,rs6439886
+Memory (episodic),5,KIBRA,rs17070145
+Memory (traumatic),22,COMT,rs4680
+Migratory behaviour,11,DRD4,VNTR
+Novelty-seeking behaviour,11,DRD4,rs180095
+Optimism,17,SERT (5HTT),rs25531
+Pair-bonding (+ sociability),3,OXTR,rs7632287
+Pair-bonding (+ sociability),,,rs75775
+Pair-bonding (+ sociability),,,rs53576
+Pair-bonding (+ sociability),,,rs2254298
+Pair-bonding (+ sociability),,,rs237887
+Ruthlessness ,12,AVPR1A,
+Sexual desire,11,DRD4,
+Sleeping time (later),4,CLOCK,rs1801260

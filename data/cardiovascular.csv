@@ -1,0 +1,121 @@
+Disease,Chromosome,Gene,SNP
+Abdominal Aortic Aneurysm,5,MTRR,rs326118
+Abdominal Aortic Aneurysm,7,IL6,rs1800796
+Abdominal Aortic Aneurysm,9,intergenic,rs10116277
+Abdominal Aortic Aneurysm,9,intergenic,rs10757278
+Abdominal Aortic Aneurysm,9,intergenic,rs10811661
+Abdominal Aortic Aneurysm,14,MTHFD1,rs8003379
+Intracranial Aneurysm,1,1p34-36,
+Intracranial Aneurysm,2,BOLL,rs700651
+Intracranial Aneurysm,5,CSPG2,rs173686
+Intracranial Aneurysm,7,7q11,
+Intracranial Aneurysm,8,intergenic,rs10958409
+Intracranial Aneurysm,9,intergenic,rs10757278
+Intracranial Aneurysm,9,intergenic,rs1333040
+Intracranial Aneurysm,9,9p21,rs10116277
+Intracranial Aneurysm,11,11q25,
+Intracranial Aneurysm,14,14q23–q31,rs767603
+Intracranial Aneurysm,19,19q13.1-13.3,
+Atherosclerosis (hyperlipidemia),1,USF1,rs2516839
+Atherosclerosis (hyperlipidemia),,,rs2073658
+Atherosclerosis (hyperlipidemia),4,FGB,rs1800787
+Atrial Fibrillation,1,EDN2,rs5800
+Atrial Fibrillation,4,AF (4q25),rs10033464
+Atrial Fibrillation,,,rs2200733
+Atrial Fibrillation,6,6q14-16 region,
+Atrial Fibrillation,10,10q22 region,
+Cardiovascular disease,1,FMN2,rs17672135
+Cardiovascular disease,1,PSRC1,rs599839
+Cardiovascular disease,1,CRP,rs3091244
+Cardiovascular disease,2,HSPD1,rs788016
+Cardiovascular disease,,,rs2565163
+Cardiovascular disease,,,rs2340690
+Cardiovascular disease,2,HSPE1,rs2305560
+Cardiovascular disease,5,intergenic,rs383830
+Cardiovascular disease,6,MTHFD1L,rs6922269
+Cardiovascular disease,7,NOS3,rs1799983
+Cardiovascular disease,,,rs207044
+Cardiovascular disease,,,rs1800779
+Cardiovascular disease,,,rs1800783
+Cardiovascular disease,9,intergenic,rs10757274
+Cardiovascular disease,9,intergenic,rs2383206
+Cardiovascular disease,10,intergenic,rs501120
+Cardiovascular disease,11,MMP3,rs3025058
+Cardiovascular disease,11,MYBPC3,
+Cardiovascular disease,13,KL,rs9536314
+Cardiovascular disease,,,rs9527025
+Cardiovascular disease,15,SMAD3,rs17228212
+Cardiovascular disease,16,CDH13,rs8055236
+Cardiovascular disease,17,ACE,rs1799752
+Cardiovascular disease,19,intergenic,rs7250581
+Cardiovascular disease,22,SEZ6L,rs688034
+Cardiovascular disease (early onset),3,GATA2,rs2713604
+Cardiovascular disease (early onset),,,rs3803
+Cardiovascular disease (cholesterol level),1,CELSR2,rs4970834
+Cardiovascular disease (cholesterol level),1,ARHGAP30,rs2774279
+Cardiovascular disease (cholesterol level),2,intergenic,rs2943634
+Cardiovascular disease (cholesterol level),6,EDN1,rs5370
+Cardiovascular disease (cholesterol level),8,LPL,rs326
+Cardiovascular disease (cholesterol level),15,LIPC,rs1800588
+Cardiovascular disease (cholesterol level),16,CETP,rs183130
+Cardiovascular disease (cholesterol level),18,MC4R,rs2229616
+Cardiovascular disease (cholesterol level),20,PLTP,rs3843763
+Familial hypercholesterolemia (Type B),1,PCSK9,rs505151
+Familial hypercholesterolemia (Type B),2,APOB,rs5742904
+Familial hypercholesterolemia (Type B),,,rs12713559
+Familial hypercholesterolemia (Type B),,,i4000339
+Familial hypercholesterolemia (Type B),2,intergenic,rs7566605
+Familial hypercholesterolemia (Type B),19,LDLR,rs28941776
+Familial hypercholesterolemia (Type B),,,rs28942081
+Familial hypercholesterolemia (Type B),,,rs28942082
+Familial hypercholesterolemia (early atherosclerosis in children),7,PON1,rs854560
+Myocardial infarction (heart attack),1,PSRC1,rs599839
+Myocardial infarction (heart attack),,,
+Myocardial infarction (heart attack),1,TNFSF4,rs1234315
+Myocardial infarction (heart attack),,,rs1234312
+Myocardial infarction (heart attack),,,rs1234313
+Myocardial infarction (heart attack),,,rs3850641
+Myocardial infarction (heart attack),,,rs3861950
+Myocardial infarction (heart attack),3,ITIH3,
+Myocardial infarction (heart attack),5,IL4,rs2243250
+Myocardial infarction (heart attack),9,9p21,rs10116277
+Myocardial infarction (heart attack),9,9p21,rs2383207
+Myocardial infarction (heart attack),,,rs1537375
+Myocardial infarction (heart attack),9,9p21,rs10757278
+Myocardial infarction (heart attack),9,9p21,rs1333049
+Myocardial infarction (heart attack),9,TLR4,rs4986790
+Myocardial infarction (heart attack),11,MMP3,rs3025058
+Myocardial infarction (heart attack),12,SH2B3,rs3184504
+Myocardial infarction (heart attack),12,BRAP,rs3782886
+Myocardial infarction (heart attack),14,PSMA6,
+Myocardial infarction (heart attack),17,ITGB3,rs5918
+Myocardial infarction (heart attack),20,MMP9,rs3918242
+Myocardial infarction (heart attack),,,rs17576
+Myocardial infarction (heart attack),22,FLJ25967,rs2331291
+Myocardial infarction (early onset),1,intergenic,rs646776
+Myocardial infarction (early onset),1,MIA3,rs17465637
+Myocardial infarction (early onset),1,intergenic,rs11206510
+Myocardial infarction (early onset),2,WDR12,rs6725887
+Myocardial infarction (early onset),10,intergenic,rs1746048
+Peripheral Arterial Disease,3,MRAS,rs2306374
+Peripheral Arterial Disease,15,CHRNA5,rs951266
+Peripheral Arterial Disease,15,CHRNA3,rs1051730
+Stroke,1,F5,rs7542281
+Stroke,,,rs2269648
+Stroke,,,rs2420369
+Stroke,,,rs6025
+Stroke,2,PROC,rs1401296
+Stroke,3,SERPINI1,rs6797312
+Stroke,9,intergenic,rs10757278
+Stroke,10,CYP51A1,rs1041296
+Stroke,12,GNB3,rs5443
+Stroke,14,PRKCH,rs2230500
+Stroke,,,rs3783799
+Stroke,19,ICAM1,rs5030341
+Stroke,20,THBD,rs1042580
+Venous Thromboembolism,1,F5,rs6025
+Venous Thromboembolism,1,F2,rs1799963
+Venous Thromboembolism,1,SELE,rs5361
+Venous Thromboembolism,1,LPL,rs268
+Venous Thromboembolism,5,ADRB2,rs1042714
+Venous Thromboembolism,11,F2,i3002432

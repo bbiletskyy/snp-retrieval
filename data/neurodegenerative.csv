@@ -1,0 +1,72 @@
+Disease,Chromosome,Gene,SNP
+Alzheimer's Disease,2,EIF2AK2,rs2254958
+Alzheimer's Disease,3,MME,rs1836915
+Alzheimer's Disease,6,TNF,rs1799724
+Alzheimer's Disease,9,DAPK1,rs4878104
+Alzheimer's Disease,,,rs4877365
+Alzheimer's Disease,9,GOLM1,rs10868366
+Alzheimer's Disease,,,rs7019241
+Alzheimer's Disease,9,intergenic,rs9886784
+Alzheimer's Disease,10,CALHM1,rs2986017
+Alzheimer's Disease,10,PLAU,rs2227564
+Alzheimer's Disease,,,rs2227562
+Alzheimer's Disease,11,GAB2,rs2373115
+Alzheimer's Disease,11,BDNF,rs6265
+Alzheimer's Disease,,,rs11030104
+Alzheimer's Disease,,,rs2049045
+Alzheimer's Disease,11,SORL1,rs2070045
+Alzheimer's Disease,,,rs661057
+Alzheimer's Disease,,,rs668387
+Alzheimer's Disease,,,rs689021
+Alzheimer's Disease,,,rs641120
+Alzheimer's Disease,,,rs12285364
+Alzheimer's Disease,12,AM,rs669
+Alzheimer's Disease,12,OLR1,rs1050283
+Alzheimer's Disease,15,intergenic,rs10519262
+Alzheimer's Disease,17,MPO,rs2333227
+Alzheimer's Disease,,,rs12316150
+Alzheimer's Disease,19,APOE,rs429358
+Alzheimer's Disease,,,rs7412
+Alzheimer's Disease,19,APOC1,rs4420638
+Alzheimer's Disease,X,PCDH11X,rs5984894
+Alzheimer's Disease (early onset),14,PSEN1,
+Alzheimer's Disease (early onset),1,PSEN2,
+Alzheimer's Disease (early onset),9,ABCA2,rs908832
+Alzheimer's Disease (early onset),21,APP,
+Amyotrophic Lateral Sclerosis (ALS),1,FLJ10986,rs6700125
+Amyotrophic Lateral Sclerosis (ALS),,,rs6690993
+Amyotrophic Lateral Sclerosis (ALS),,,rs10493256
+Amyotrophic Lateral Sclerosis (ALS),,,rs6587852
+Amyotrophic Lateral Sclerosis (ALS),,,rs1470407
+Amyotrophic Lateral Sclerosis (ALS),,,rs333662
+Amyotrophic Lateral Sclerosis (ALS),2,intergenic,rs12473579
+Amyotrophic Lateral Sclerosis (ALS),,,rs17027230
+Amyotrophic Lateral Sclerosis (ALS),2,IL18RAP,rs3771150
+Amyotrophic Lateral Sclerosis (ALS),7,LOC653748,rs10260404
+Amyotrophic Lateral Sclerosis (ALS),7,DPP6,rs10239794
+Amyotrophic Lateral Sclerosis (ALS),7,PON2,rs12704795
+Amyotrophic Lateral Sclerosis (ALS),7,MAGI2,rs757863
+Amyotrophic Lateral Sclerosis (ALS),12,intergenic,rs905080
+Amyotrophic Lateral Sclerosis (ALS),12,intergenic,rs1027615
+Amyotrophic Lateral Sclerosis (ALS),15,LIPC,rs3825776
+Amyotrophic Lateral Sclerosis (ALS),17,GRN,rs9897526
+Amyotrophic Lateral Sclerosis (ALS),,,rs34424835
+Amyotrophic Lateral Sclerosis (ALS),,,rs850713
+Amyotrophic Lateral Sclerosis (ALS),18,LOXHD1,rs988213
+Amyotrophic Lateral Sclerosis (ALS),20,intergenic,rs13036957
+Amyotrophic Lateral Sclerosis (ALS),21,intergenic,rs2836061
+Creutzfeldt-Jakob Disease,8,intergenic,rs1460163
+Creutzfeldt-Jakob Disease,11,CTSD,rs17571
+Creutzfeldt-Jakob Disease,20,PRNP,rs1799990
+Parkinson's Disease,1,USP24,rs287235
+Parkinson's Disease,1,GBA,i4000415
+Parkinson's Disease,2,USP40,rs838552
+Parkinson's Disease,3,MCCC1,rs10513789
+Parkinson's Disease,4,FAM47E,rs6812193
+Parkinson's Disease,4,ADH1C,rs283413
+Parkinson's Disease,4,SNCA,rs356219
+Parkinson's Disease,12,LRRK2,rs34637584
+Parkinson's Disease,,,rs34778348
+Parkinson's Disease,17,MAPT,rs393152
+Primary progressive aphasia,22,PRNP,rs1799990
+Progressive Supranuclear Palsy,11,NR1H3,rs7120118

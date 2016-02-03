@@ -1,0 +1,71 @@
+Disease,Chromosome,Gene,SNP
+Age-related Macular Degeneration,A,CFH,rs800292
+Age-related Macular Degeneration,,,rs3753394
+Age-related Macular Degeneration,,,rs1329428
+Age-related Macular Degeneration,,,rs1061147
+Age-related Macular Degeneration,,,rs1061170
+Age-related Macular Degeneration,4,TLR3,rs3775291
+Age-related Macular Degeneration,6,C2,rs547154
+Age-related Macular Degeneration,10,HTRA1,rs11200638
+Age-related Macular Degeneration,,,rs932275
+Age-related Macular Degeneration,10,ARMS2,rs10490924
+Age-related Macular Degeneration,,,rs3750847
+Age-related Macular Degeneration,19,C3,rs2230199
+Glaucoma,15,LOXL1,rs1048661
+Glaucoma,,,rs3825942
+Glaucoma,,,rs2165241
+Glaucoma,,,rs1078967
+Glaucoma (open angle),A,MYOC,rs28936694
+Gout,4,SLC2A9,rs1014290
+Gout,,,rs6449213
+Gout,,,rs737267
+Hearing loss (noise-induced),6,HSP70-hom,rs2227956
+Hearing loss (noise-induced),6,HSP70-1,rs1043618
+Hearing loss (noise-induced),6,HSP70-2,rs1061581
+Hearing loss (age-related),A,KCNQ4,
+Hearing loss (age-related),8,GRHL2,
+Hyperparathyroidism,11,MEN1,rs2959656
+Hyperparathyroidism,A,CDC73,rs28942098
+Hyperparathyroidism,3,CASR,rs28936684
+Hypothyroidism,9,FOXE1,rs28937575
+Hypothyroidism (goiter),8,TG,rs2069556
+Hypothyroidism (goiter),,,rs11535853
+Hypothyroidism (goiter),,,rs2069561
+Hypothyroidism (goiter),,,rs35301433
+Hypothyroidism (goiter),,,rs853326
+Hirschprung's disease,A,ECE1,
+Hirschprung's disease,B,SIP1,
+Hirschprung's disease,4,PHOX2B,rs28939716
+Hirschprung's disease,5,GDNF,
+Hirschprung's disease,10,RET,rs3026785
+Hirschprung's disease,,,rs17158558
+Hirschprung's disease,,,rs1800858
+Hirschprung's disease,,,rs2435357
+Hirschprung's disease,13,EDNRB,rs5352
+Hirschprung's disease,19,NTN,
+Hirschprung's disease,20,EDN3,rs11570255
+Hirschprung's disease,,,rs11570351
+Hirschprung's disease,22,SOX10,
+Osteoarthritis,A,intergenic,rs4140564
+Osteoarthritis,B,FRZB,rs7775
+Osteoarthritis,3,LOC344875,rs7639618
+Osteoarthritis,,,rs9864422
+Osteoarthritis,,,rs11718863
+Osteoarthritis,20,GDF5,rs143383
+Osteoporosis,B,QPCT,rs3770748
+Osteoporosis,11,LRP5,rs4988321
+Osteoporosis,,,rs3736228
+Osteoporosis,15,CYP19A1,rs17703883
+Osteoporosis,,,rs16964201
+Osteoporosis,,,rs12594287
+Osteoporosis,20,BMP2,rs235754
+Otitis,6,TNF,rs1800750
+Otitis,,,rs361525
+Otitis,7,IL6,rs1800795
+Sarcoidosis,10,ANXA11,rs7091565
+Sarcoidosis,6,TNF,rs1800629
+Sciatica,7,IL6,rs1800795
+Sciatica,,,rs1800796
+Sciatica,,,rs1800797
+Sciatica,,,rs13306435
+Tourette's Syndrome,12,TPH2,rs4565946

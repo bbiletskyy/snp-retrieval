@@ -1,0 +1,55 @@
+Disease,Chromosome,Gene,SNP
+"Addictive behaviours (gambling, alcoholism, smoking...)",11,ANKK1,rs1800497
+Alcoholism (alcohol cravings),6,OPRM1,rs1799971
+Alcoholism (alcohol dependence),4,GABRA2,rs279858
+Alcoholism (alcohol dependence),,,rs279871
+Alcoholism (alcohol dependence),,,rs279845
+Alcoholism (alcohol dependence),,,rs279836
+Alcoholism (alcohol dependence),15,GABRG3,
+Alcoholism (withdrawal seizures),5,SLC6A3,rs27072
+Alcoholism (withdrawal seizures),,,rs27048
+Alcoholism (other),3,GHSR,rs2232165
+Alcoholism (other),,,rs2948694
+Alcoholism (other),11,DRD2,rs1076560
+Alcoholism (other),11,ANKK1,rs1800497
+Alcoholism (other),17,SERT (5HTT),rs1042173
+Cannabis dependence,6,intergenic,rs806380
+Cocaine dependence,A,OPRD1,rs12749204
+Cocaine dependence,15,CHRNA5,rs16969968
+Cocaine dependence,20,intergenic,rs910080
+Cocaine dependence,,,rs910079
+Cocaine dependence,,,rs2235749
+Cocaine dependence,22,COMT,rs4680
+Cocaine-induced paranoia,6,intergenic,rs12333032
+Cocaine-induced paranoia,6,MANEA,rs9387522
+Gambling addiction,X,MAOA,
+Heroin addiction,6,OPRM1,rs1799971
+Heroin addiction,11,TPH1,rs1799913
+Heroin addiction,12,TPH2,rs7963720
+Heroin addiction,,,rs4290270
+Nicotine dependence,B,CHRND,rs3791729
+(tobacco addiction),,,rs2767
+(tobacco addiction),,,rs2276560
+(tobacco addiction),,,rs6749955
+(tobacco addiction),8,CHRNA6,rs2304297
+(tobacco addiction),8,CHRNB3,rs4952
+(tobacco addiction),,,rs6474413
+(tobacco addiction),,,rs10958726
+(tobacco addiction),9,GABBR2,rs1435252
+(tobacco addiction),,,rs3780422
+(tobacco addiction),,,rs2779562
+(tobacco addiction),,,rs3750344
+(tobacco addiction),11,DRD2,rs4648317
+(tobacco addiction),15,CHRNA3,rs1051730
+(tobacco addiction),,,rs3743078
+(tobacco addiction),,,rs578776
+(tobacco addiction),15,CHRNA5,rs16969968
+(tobacco addiction),,,rs684513
+(tobacco addiction),,,rs637137
+(tobacco addiction),,CHRNB4,rs3813567
+(tobacco addiction),20,CHRNA4,rs2273504
+(tobacco addiction),,,rs2273502
+(tobacco addiction),,,rs1044396
+(tobacco addiction),,,rs1044397
+(tobacco addiction),,,rs3827020
+(tobacco addiction),,,rs2236196

@@ -1,0 +1,144 @@
+Disease,Chromosome,Gene,SNP
+ADHD,3,SLC9A9,rs1242075
+ADHD,3,HES1,rs4686673
+ADHD,4,CLOCK,rs1801260
+ADHD,4,DRD5,Dinucleotide repeat
+ADHD,5,SLC1A3,rs2269272
+ADHD,5,SLC6A3 (DAT1),rs27072
+ADHD,6,HTR1B,rs6296
+ADHD,7,DDC,rs11575454
+ADHD,,,rs1466163
+ADHD,9,DBH,rs1611115
+ADHD,11,FADS2,rs518511
+ADHD,11,DRD4,rs1800955
+ADHD,,,VNTR
+ADHD,11,BDNF,rs6265
+ADHD,12,NTF3,rs6332
+ADHD,12,TPH2,rs1386493
+ADHD,,,rs17110747
+ADHD,,,rs1843809
+ADHD,13,HTR2A,rs6314
+ADHD,16,SLC6A2 (NET),rs3785143
+ADHD,17,ARRB2,rs7208257
+ADHD,17,PNMT,rs200173
+ADHD,17,5-HTT (SERT),rs25531
+ADHD,20,SNAP25,rs3746544
+ADHD,,,rs3787283
+ADHD,,,rs363026
+ADHD,,,rs6039806
+ADHD,22,ADRBK2,rs3730315
+Autism,1,PTGS2,rs2745557
+Autism,2,ITGA4,rs1143674
+Autism,3,HTR3C,rs6766410
+Autism,,,rs6807362
+Autism,5,5p15,rs10513025
+Autism,5,DRD1,rs265981
+Autism,,,rs4532
+Autism,,,rs686
+Autism,7,MET,rs1858830
+Autism,7,DOCK4,rs2217262
+Autism,9,KDM4C,rs722628
+Autism,9,MAPKAP1,rs536861
+Autism,11,CD44,rs2421826
+Autism,11,LDLRAD3,rs1358054
+Autism,12,PVRIG,rs1445442
+Autism,12,APPL2,rs2272495
+Autism,22,SHANK3,rs397514705
+Autism,22,SHANK3,rs9616915
+Autism (social communication problem),14,-,rs2352908
+Autism (social communication problem),6,6p22,rs9257616
+Autism (delayed onset of speech),7,CNTNAP2,rs7794745
+Autism (delayed onset of speech),,,rs2710102
+Autism (Asperger's syndrome),1,DISC1,rs1322784
+Autism (Asperger's syndrome),5,APC,rs1804197
+Autism (Asperger's syndrome),,,rs2229992
+Autism (Asperger's syndrome),,,rs42427
+Autism (Asperger's syndrome),,,rs459552
+Autism (Asperger's syndrome),,,rs465899
+Anxiety,1,NGF,rs6330
+Anxiety,12,TPH2,rs4570625
+Anxiety,,,rs4565946
+Bipolar disorder,5,DAT,
+Bipolar disorder,3,-,rs6442925
+Bipolar disorder,4,-,rs534654
+Bipolar disorder,6,FKBP5,rs7757037
+Bipolar disorder,12,CACNA1C,rs1006737
+Bipolar disorder,,,rs2159100
+Bipolar disorder,12,TPH2,rs4570625
+Bipolar disorder,,,rs11178997
+Bipolar disorder,,,rs17110563
+Bipolar disorder,12,CUX2,rs3847953
+Bipolar disorder,12,FAM109A,rs933399
+Bipolar disorder,13,HTR2A,
+Bipolar disorder,13,DGKH,rs1012053
+Bipolar disorder,16,PALB2,rs420259
+Bipolar disorder,22,CSNK1E,rs1534891
+Bipolar disorder,22,BCR,rs140504
+Bipolar disorder,,,rs131690
+Bipolar disorder,,,rs131702
+Bipolar disorder (lithium treatment),3,GADL1,rs17026688
+Bipolar disorder (lithium treatment),,,rs17026651
+Depression,1,MTHFR,rs1801133
+Depression,2,PDE11A,rs3770018
+Depression,5,DAT,
+Depression,7,CHRM2,rs1824024
+Depression,,,rs2061174
+Depression,,,rs324650
+Depression,11,BDNF,rs6265
+Depression,11,TPH1,rs1799913
+Depression,,,rs7933505
+Depression,13,HTR2A,
+Depression,17,SERT (5HTT),
+Depression,21,PDE9A,rs729861
+Depression,22,BCR,rs3761418
+Depression,,,rs2267012
+Depression,,,rs2267013
+Depression,,,rs2267015
+Depression,,,rs2156921
+Depression,,,rs3313172
+Dyslexia,6,KIAA0319,rs761100
+Dyslexia,,,rs4504469
+Dyslexia,,,rs3212236
+Dyslexia,6,DCDC2,rs793862
+Dyslexia,,,rs807701
+Dyslexia,6,TTRAP,rs2143340
+Epilepsy,18,ME2,rs642698
+Obsessive-Compulsive Disorder,3,DRD3,rs6280
+Obsessive-Compulsive Disorder,11,ANKK1,rs1800497
+Obsessive-Compulsive Disorder,12,TPH2,rs4570625
+Obsessive-Compulsive Disorder,,,rs4565946
+Obsessive-Compulsive Disorder,17,SERT (5HTT),
+Obsessive-Compulsive Disorder,17,SLC6A4,rs25531
+Obsessive-Compulsive Disorder,,,rs25532
+Obsessive-Compulsive Disorder,22,COMT,rs4680
+Schizophrenia,A,DISC1,rs3738401
+Schizophrenia,,,rs6675281
+Schizophrenia,A,CHI3L1,rs4950928
+Schizophrenia,6,DTNBP1,rs760761
+Schizophrenia,,,rs1018381
+Schizophrenia,,,rs2619522
+Schizophrenia,8,SLC18A1,rs2270641
+Schizophrenia,10,intergenic,rs17101921
+Schizophrenia,13,HTR2A,
+Schizophrenia,11,DRD2,rs1801028
+Schizophrenia,,,rs6277
+Schizophrenia,11,TPH1,rs7933505
+Schizophrenia,,,rs1800532
+Schizophrenia,,,rs211105
+Schizophrenia,11,intergenic,rs10790212
+Schizophrenia,11,intergenic,rs497768
+Schizophrenia,22,GNB1L,rs2269726
+Schizophrenia,22,COMT,rs4680
+Schizophrenia,,,rs737865
+Schizophrenia,,,rs165599
+Schizophrenia,X,CSF2RA,rs4129148
+Schizophrenia,,,rs28694718
+Schizophrenia,,,rs28414810
+Schizophrenia,X,IL3RA,rs6422441
+Schizophrenia,,,rs6603272
+Schizophrenia,,,rs17883192
+Social Phobia,A,RGS2,rs4606
+Social Phobia,17,SLC6A4 (SERT or 5HTT),rs140701
+Social Phobia,,,rs3794808
+Social Phobia,,,rs4583306
+Social Phobia,,,rs25531

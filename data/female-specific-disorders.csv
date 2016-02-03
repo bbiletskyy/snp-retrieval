@@ -1,0 +1,22 @@
+Disease,Chromosome,Gene,SNP
+Endometriosis,6,ESR1,rs9340799
+Endometriosis,7,GRCh37.1,rs12700667
+Endometriosis,9,CDKN2B-AS1,rs10965235
+Gestational Diabetes,10,TCF7L2,rs7903146
+Intrahepatic Cholestasis of Pregnancy,2,ABCB11,rs2287622
+Intrahepatic Cholestasis of Pregnancy,10,ABCC2,rs3740066
+Neural Tube Defects,1,MTHFR,rs1801133
+Placental Abruption,1,F5,rs6025
+Placental Abruption,11,intergenic,i3002432
+Placental Abruption,11,intergenic,rs1799963
+Polycystic Ovary Syndrome,2,LHCGR,rs13405728
+Polycystic Ovary Syndrome,2,THADA,rs13429458
+Polycystic Ovary Syndrome,9,DENND1A,rs2479106
+Pre-eclampsia,1,AGT,rs4762
+Pre-eclampsia,3,AGTR1,rs5186
+Pre-eclampsia,7,NOS3,rs1799983
+Pre-eclampsia,9,TLR4,rs4986790
+Uterine Fibroids,6,ESR1,rs9340799
+Uterine Fibroids,10,intergenic,rs7913069
+Uterine Fibroids,11,BET1L,rs2280543
+Uterine Fibroids,22,TNRC6B,rs12484776

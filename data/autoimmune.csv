@@ -1,0 +1,49 @@
+Disease,Gene,SNP
+Acute intermittent porphyria,HMBS,
+Congenital Erythropoietic Porphyria (Gunther disease),UROS,rs28941774
+Congenital Erythropoietic Porphyria (Gunther disease),,rs28941775
+Cystic Fibrosis,CFTR,i3000001
+G6PD Deficiency,G6PD,rs1050828
+G6PD Deficiency,,
+Haemochromatosis,HFE,rs1800562
+Haemochromatosis,,rs1799945
+Haemophilia,F8,
+Haemophilia,F9,
+(Factor XI deficiency is more common in Ashkenazi Jews),F11,i4000397
+Haemophilia,,i4000398
+Haemophilia,,i4000399
+Huntington's disease,HTT,rs17781557
+Nonsyndromic Deafness,KCNQ4,rs28937588
+Nonsyndromic Deafness,,rs28937589
+Nonsyndromic Deafness,,rs28939710
+Nonsyndromic Deafness,WFS1,rs28937893
+Nonsyndromic Deafness,DSPP,rs28929492
+Nonsyndromic Deafness,TGBF1,
+Nonsyndromic Deafness,TECTA,rs28939691
+Nonsyndromic Deafness,,rs28939690
+Nonsyndromic Deafness,MYO7A,rs28934903
+Nonsyndromic Deafness,GJB2,rs28931595
+Nonsyndromic Deafness,,i4000434
+Nonsyndromic Deafness,,i4000435
+Nonsyndromic Deafness,COCH,rs28938175
+Nonsyndromic Deafness,CRYM,rs28929490
+Neurofibromatosis type II,NF2,
+Polycystic kidney disease,PKD1,rs34197769
+Polycystic kidney disease,,rs40433
+Polycystic kidney disease,PKHD1,rs28939383
+Polycystic kidney disease,,rs28937907
+Polycystic kidney disease,,Rs2435322
+Sickle-cell Anemia,HBB,i3003137
+Tay–Sachs disease,HEXA,i4000436
+Tay–Sachs disease,,i4000391
+Tay–Sachs disease,,i4000393
+Tay–Sachs disease,,i4000438
+Tay–Sachs disease,,i4000440
+Tay–Sachs disease,,i4000442
+Variegate porphyria,PPOX,rs12735723
+Variegate porphyria,,rs28936676
+Variegate porphyria,,rs28936677
+Wilson's disease,CP,rs701753
+Wilson's disease,ATP7B,rs28942074
+Wilson's disease,,rs28942075
+Wilson's disease,,rs28942076

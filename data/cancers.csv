@@ -1,0 +1,193 @@
+Disease,Chromosome,Gene,SNP
+Cancer (general risk),3,FHIT,
+Cancer (general risk),5,CLPTM1L,rs2736098
+Cancer (general risk),,,rs401681
+Cancer (general risk),6,E2F3,
+Cancer (general risk),12,MDM2,rs2279744
+Cancer (general risk),19,ZBTB7A,
+Cancer (general risk),20,AURKA,rs2273535
+Cancer (prevention),B,CASP8,
+Cancer : Bladder,A,PTGS2,rs5275
+Cancer : Bladder,A,RUNX3,rs760805
+Cancer : Bladder,3,3q38,rs710521
+Cancer : Bladder,3,OGG1,rs1052133
+Cancer : Bladder,8,8q24 region,rs9642880
+Cancer : Brain,A,MTHFR,rs1801131
+Cancer : Brain,,,rs1801133
+Cancer : Breast,B,CASP8,rs17468277
+Cancer : Breast,,,rs1045485
+Cancer : Breast,B,intergenic,rs13387042
+Cancer : Breast,4,intergenic,rs2056116
+Cancer : Breast,5,intergenic,rs4700485
+Cancer : Breast,5,MRPS30,rs4415084
+Cancer : Breast,5,intergenic,rs889312
+Cancer : Breast,6,TNF,rs361525
+Cancer : Breast,6,CDKN1A,rs3176336
+Cancer : Breast,7,XRCC2,rs3218536
+Cancer : Breast,8,intergenic,rs672888
+Cancer : Breast,8,8q24,rs13281615
+Cancer : Breast,8,CYP51A1,rs1042638
+Cancer : Breast,9,intergenic,rs3218005
+Cancer : Breast,9,CDKN2A,rs3731239
+Cancer : Breast,10,FGFR2,rs1219648
+Cancer : Breast,,,rs2981582
+Cancer : Breast,,,rs2420946
+Cancer : Breast,,,rs2981582
+Cancer : Breast,10,TCF7L2,rs12255372
+Cancer : Breast,11,LSP1,rs3817198
+Cancer : Breast,11,ATM,rs3218707
+Cancer : Breast,,,rs4987945
+Cancer : Breast,,,rs4986761
+Cancer : Breast,,,rs3218695
+Cancer : Breast,,,rs1800056
+Cancer : Breast,,,rs1800057
+Cancer : Breast,,,rs3092856
+Cancer : Breast,,,rs1800058
+Cancer : Breast,,,rs1801673
+Cancer : Breast,12,CDKN1B,rs34330
+Cancer : Breast,13,BRCA2,rs1799954
+Cancer : Breast,,,rs766173
+Cancer : Breast,,,rs144848
+Cancer : Breast,,,rs4987117
+Cancer : Breast,,,rs1799954
+Cancer : Breast,,,rs11571746
+Cancer : Breast,,,rs11571747
+Cancer : Breast,,,rs4987047
+Cancer : Breast,,,rs11571833
+Cancer : Breast,,,rs1801426
+Cancer : Breast,,,i4000379
+Cancer : Breast,16,16q12 region,rs3803662
+Cancer : Breast,17,BRCA1,rs1799950
+Cancer : Breast,,,rs4986850
+Cancer : Breast,,,rs2227945
+Cancer : Breast,,,rs16942
+Cancer : Breast,,,rs1799966
+Cancer : Breast,,,i4000377
+Cancer : Breast,,,i4000378
+Cancer : Breast,17,TP53,rs1042522
+Cancer : Breast,19,CCNE1,rs997669
+Cancer : Breast,20,AURKA,rs2273535
+Cancer : Breast,,,rs1047972
+Cancer : Breast,22,COMT,rs4680
+Cancer : Breast,22,CHEK2,rs17879961
+Cancer : Cervical,6,CD83,rs853360
+Cancer : Cervical,,,rs9296925
+Cancer : Cervical,,,rs9370729
+Cancer : Cervical,,,rs9230
+Cancer : Cervical,,,rs750749
+Cancer : Colorectal,7,LEP,rs2167270
+Cancer : Colorectal,8,POU5F1P1,rs6983267
+Cancer : Colorectal,8,EIF3H,rs16892766
+Cancer : Colorectal,8,intergenic,rs10505477
+Cancer : Colorectal,9,intergenic,rs719725
+Cancer : Colorectal,10,TCF7L2,rs7903146
+Cancer : Colorectal,10,intergenic,rs10795668
+Cancer : Colorectal,11,LOC120376,rs3802842
+Cancer : Colorectal,12,CHFR,rs2306536
+Cancer : Colorectal,12,KLRK1,rs1049174
+Cancer : Colorectal,15,intergenic,rs4779584
+Cancer : Colorectal,18,SMAD7,rs4939827
+Cancer : Colorectal,,,rs12953717
+Cancer : Colorectal,,,rs4464148
+Cancer : Colorectal,19,INSR,rs1864010
+Cancer : Colorectal,20,AURKA,rs2273535
+Cancer : Colorectal,,,rs1047972
+Cancer : Endometrial (Uterus),12,MDM2,rs2279744
+Cancer : Endometrial (Uterus),22,COMT,rs4633
+Cancer : Endometrial (Uterus),,,rs4680
+Cancer : Gallbladder,3,OGG1,rs1052133
+Cancer : Gallbladder,4,EGF,rs4444903
+Cancer : Gastric (Stomach),A,MTHFR,rs1801133
+Cancer : Gastric (Stomach),8,PSCA,rs2294008
+Cancer : Gastric (Stomach),17,MPO,rs2333227
+Cancer : Gastric (Stomach),20,AURKA,rs1047972
+Cancer : Leukemia (Blood),B,ACOXL,rs17483466
+Cancer : Leukemia (Blood),B,SP140,rs13397985
+Cancer : Leukemia (Blood),6,IRF4,rs872071
+Cancer : Leukemia (Blood),11,intergenic,rs735665
+Cancer : Leukemia (Blood),15,intergenic,rs7176508
+Cancer : Leukemia (Blood),19,PRKD2,rs11083846
+Cancer : Liver,4,EGF,rs4444903
+Cancer : Liver,6,TNF,rs1800629
+Cancer : Liver,6,HFE,rs1800562
+Cancer : Lung,A,MTHFR,rs1801133
+Cancer : Lung,6,CDKN1A,rs1801270
+Cancer : Lung,7,ABCB1,rs3842
+Cancer : Lung,15,CHRNA3,rs1051730
+Cancer : Lung,15,LOC123688,rs8034191
+Cancer : Lung,16,ABCC1,rs212090
+Cancer : Lung,17,MPO,rs2333227
+Cancer : Lung,20,AURKA,rs2273535
+Cancer : Lung,22,CHEK2,rs17879961
+Cancer : Oral and Larynx,4,ADH7,rs1573496
+Cancer : Oral and Larynx,4,ADH1B,rs1229984
+Cancer : Ovarian,B,SRD5A2,rs523349
+Cancer : Ovarian,7,PMS2,rs7797466
+Cancer : Ovarian,7,XRCC2,rs3218536
+Cancer : Ovarian,11,PGR,rs1042838
+Cancer : Ovarian,11,intergenic,rs608995
+Cancer : Ovarian,13,RB1,rs4151620
+Cancer : Ovarian,,,rs2854344
+Cancer : Ovarian,13,P2RY5,rs2227311
+Cancer : Pancreatic,3,ATR,rs2227928
+Cancer : Pancreatic,4,PALLD,
+Cancer : Pancreatic,5,MTRR,rs162049
+Cancer : Pancreatic,,,rs10380
+Cancer : Pancreatic,11,ATM,rs1801516
+Cancer : Pancreatic,,,rs664143
+Cancer : Pancreatic,11,CHEK1,rs521102
+Cancer : Pancreatic,17,LIG3,rs2074522
+Cancer : Prostate,B,EHBP1,rs2710646
+Cancer : Prostate,3,FYCO1,rs1545985
+Cancer : Prostate,,,rs7652331
+Cancer : Prostate,4,KIAA1211,rs629242
+Cancer : Prostate,4,LOC152485,rs13149290
+Cancer : Prostate,5,FCHSD1,rs251177
+Cancer : Prostate,5,FGFR4,rs351855
+Cancer : Prostate,7,JAZF1,rs10486567
+Cancer : Prostate,8,8q24(1),rs1447295
+Cancer : Prostate,8,8q24(2),rs6983267
+Cancer : Prostate,8,8q24(3),rs10505483
+Cancer : Prostate,8,8q24,rs16901979
+Cancer : Prostate,9,DAB2IP,rs1571801
+Cancer : Prostate,10,intergenic,rs10993994
+Cancer : Prostate,10,TCF7L2,rs12255372
+Cancer : Prostate,11,intergenic,rs10896449
+Cancer : Prostate,12,VDR,rs2107301
+Cancer : Prostate,,,rs2238135
+Cancer : Prostate,13,FAM124A,rs10492519
+Cancer : Prostate,14,ESR2,rs2987983
+Cancer : Prostate,16,CDH1,rs16260
+Cancer : Prostate,17,TCF2,rs4430796
+Cancer : Prostate,17,17q24.3,rs1859962
+Cancer : Prostate,X,intergenic,rs5945572
+Cancer : Skin (basal cell carcinoma),A,PADI6,rs7538876
+Cancer : Skin (basal cell carcinoma),A,intergenic,rs801114
+Cancer : Skin (melanoma),A,IL6R,rs6684439
+Cancer : Skin (melanoma),,,rs4845622
+Cancer : Skin (melanoma),,,rs4845618
+Cancer : Skin (melanoma),,,rs8192284
+Cancer : Skin (melanoma),9,intergenic,rs1408799
+Cancer : Skin (melanoma),9,CDKN2A,
+Cancer : Skin (melanoma),12,CDK4,
+Cancer : Skin (melanoma),13,BRCA2,rs1799944
+Cancer : Skin (melanoma),16,MC1R,
+Cancer : Skin (red hair),16,MC1R,rs1805009
+Cancer : Skin (red hair),,,rs1805008
+Cancer : Skin (red hair),,,rs1805007
+Cancer : Skin (light sensitivity),20,intergenic,rs1015362
+Cancer : Skin (light sensitivity),,,rs4911414
+Cancer : Testicular,5,SPRY4,rs4624820
+Cancer : Testicular,6,BAK1,
+Cancer : Testicular,12,KITLG,rs995030
+Cancer : Testicular,X,TGCT1,
+Cancer : Thyroid ,9,intergenic,rs965513
+Cancer : Thyroid ,14,intergenic,rs944289
+Neuroblastoma,6,6p22,rs6939340
+Neuroblastoma,,,rs4712653
+Neuroblastoma,,,rs9295536
+Non-Hodgkin Lymphoma,4,TLR6,rs5743815
+Non-Hodgkin Lymphoma,6,BAT2,rs3132453
+Non-Hodgkin Lymphoma,12,SELPLG,rs7300972
+Non-Hodgkin Lymphoma,19,B3GNT3,rs36686
+Non-Hodgkin Lymphoma,22,UNC84B,rs2072797

@@ -1,0 +1,128 @@
+Disease,Chromosome,Gene,SNP
+Alcohol flush reaction,12,ALDH2,rs671
+Antidepressant response,7,ABCB1,rs2032583
+Antidepressant response,13,intergenic,rs6311
+Back Pain,15,CILP,rs2073711
+Blood glucose level,B,G6PC2,rs560887
+Blood type (Duffy),A,DARC,rs2814778
+Blood type (Kell),7,KEL,rs8176058
+Blood type (Kell),,,rs8176059
+Blood type (ABO),9,ABO,rs8176719
+Blood type (ABO),,,rs8176743
+Blood type (ABO),,,rs8176746
+Blood type (ABO),,,rs8176747
+Blood type (ABO),,,rs7853989
+Blood type (Diego),17,SLC4A1,rs2285644
+Blood type (Kidd),18,SLC14A1,rs1058396
+Circadian Rhythm,A,ARNTL,
+Circadian Rhythm,B,PER2,
+Circadian Rhythm,A,PER3,
+Circadian Rhythm,4,CLOCK,
+Circadian Rhythm,17,AANAT,
+Circadian Rhythm (evening preference for C),4,CLOCK,rs1801260
+Cleft Lip/Palate,8,intergenic,rs987525
+Cluster Headaches,6,HCRTR2,rs2653349
+Colour Blindness (Daltonism),X,OPN1LW,
+Dancer vs non-dancer,12,AVPR1A,
+Dancer vs non-dancer,17,SERT (5HTT),
+Earwax Type,16,ABCC11,rs17822931
+HDL cholesterol level,6,EDN1,rs5370
+Height,6,ESR1,rs2179922
+Height,12,HMGA2,rs1042725
+Height,20,UQCC,rs6060369
+Height,,,rs6060371
+High blood pressure,A,CLCN6,rs17376328
+High blood pressure,A,intergenic,rs198358
+High blood pressure,A,intergenic,rs632793
+High blood pressure,B,STK39,rs3754777
+High blood pressure,,,rs6749447
+High blood pressure,6,EDN1,rs5370
+HLA type ,6,HLA,
+Lactose intolerance,B,MCM6,rs4988235
+Lactose intolerance,,,rs182549
+Longevity,6,FOXO3,rs2802292
+Longevity,7,IL6,rs1800795
+Longevity,9,intergenic,rs2811712
+Longevity,11,intergenic,rs2542052
+Longevity,15,IGF1R,rs34516635
+Longevity,16,CETP,rs5882
+Longevity,17,TP53,rs1042522
+Male infertility,B,GTF2A1L,rs2293275
+Male infertility,4,ART3,rs6836703
+Male infertility,,,rs14773
+Male infertility,,,rs11097230
+Male infertility,,,rs17001385
+Male infertility,16,PRM1,rs35576928
+Male infertility,19,INSL3,rs2286662
+Male-pattern baldness,X,AR (NR3C4),rs2223841
+Male-pattern baldness,X,AR,rs6152
+Male-pattern baldness,X,intergenic,rs925391
+Male-pattern baldness,20,20p11,rs1160312
+Male-pattern baldness,20,,rs2180439
+"Metabolism of xenobiotics (including caffeine, and many P-450 drugs)",15,CYP1A2,rs762551
+Myopia (short-sightedness),17,COL1A1,rs2075555
+Myopia (short-sightedness),,,rs2269336
+Myopia (short-sightedness),,,rs1107946
+Myopia (short-sightedness),X,MYP1,
+Myopia (short-sightedness),18,MYP2,
+Myopia (short-sightedness),12,MYP3,
+Myopia (short-sightedness),7,MYP4,
+Myopia (short-sightedness),17,MYP5,
+Myopia (short-sightedness),22,MYP6,
+Myopia (short-sightedness),11,MYP7,
+Myopia (short-sightedness),3,MYP8,
+Myopia (short-sightedness),4,MYP9,
+Myopia (short-sightedness),8,MYP10,
+Myopia (short-sightedness),4,MYP11,
+Myopia (short-sightedness),B,MYP12,
+Myopia (short-sightedness),X,MYP13,
+Obesity,B,intergenic,rs7566605
+Obesity,5,PCSK1,rs6232
+Obesity,11,intergenic,rs662799
+Obesity,16,FTO,rs3751812
+Obesity,,,rs9930506
+Obesity,,,rs9939609
+Obesity,18,intergenic,rs10871777
+Obesity,18,intergenic,rs12970134
+Odor Sensitivity,14,OR11H7P,rs1953558
+Pain Sensitivity,22,COMT,rs6269
+Persistent Fetal Hemoglobin,B,BCL11A,rs10195871
+Physical endurance,B,EPAS1,
+Physical endurance,5,ADRB2,
+Physical endurance,11,ACTN3,
+Physical endurance,17,ACE,
+Physical endurance,19,APOE,
+Red hair (and poor tanning ability),16,MC1R,rs1805009
+Red hair (and poor tanning ability),,,rs1805008
+Red hair (and poor tanning ability),,,rs1805007
+Red hair (and poor tanning ability),,,rs1805006
+Red hair (and poor tanning ability),,,rs11547464
+Red hair (and poor tanning ability),,,rs34474212
+Red hair (and poor tanning ability),,,rs1110400
+Red hair (and poor tanning ability),,,i3002507
+Red hair (and poor tanning ability),,,rs2228479
+Resistance to HIV and AIDS ,3,CCR5,i3003626
+Resistance to HIV and AIDS ,6,HCP5,rs2395029
+Resistance to HIV and AIDS ,17,CCL3L1,
+Resitance to Malaria,A,DARC,rs2814778
+Resitance to Malaria,11,HBB,i3003137
+Resitance to Malaria,X,G6PD,rs1050828
+Resitance to Norovirus ,19,FUT2,rs601338
+Restless Legs Syndrome,B,MEIS1,rs9789535
+Restless Legs Syndrome,,,rs2192954
+Restless Legs Syndrome,6,BTBD9,rs3923809
+Restless Legs Syndrome,15,MAP2K5,rs11635424
+Sense of taste (bitterness),7,TAS2R4,
+Sense of taste (bitterness),7,TAS2R5,
+Sense of taste (bitterness),7,TAS2R16,
+Sense of taste (bitterness),12,TAS2R8,
+Sense of taste (bitterness),12,TAS2R38,
+Sense of taste (bitterness),12,TAS2R48,
+Sense of taste (sweetness),A,TAS1R2,
+Sense of taste (umami),A,TAS1R1,
+Sense of taste (sourness),10,PKD2L1,
+Sense of taste (spiciness),17,TRPV1,
+Sense of taste (signal),7,GNAT3,
+Sense of taste (signal),11,TRPM5,
+Sense of taste (signal),15,PLCB2,
+Sprinters vs endurance runners,11,ACTN3,rs1815739
