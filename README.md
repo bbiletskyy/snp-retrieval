@@ -12,4 +12,4 @@ In order to understand the mechanism of a SNP's effect one usually needs to find
 
 ### Remarks
 The input CSV file should contain at least 2 columns: _Disease_ and _SNP_, for the disease names and SNP id's respectively.
-There is a nuber of example csv files in the _/data_ folderwith the Disease-SNP mappings obtained from http://www.eupedia.com/genetics/medical_dna_test.shtml
+There is a nuber of example csv files in the _/data_ folder with the Disease-SNP mappings obtained from http://www.eupedia.com/genetics/medical_dna_test.shtml
