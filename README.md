@@ -9,5 +9,7 @@ In order to understand the mechanism of a SNP's effect one usually needs to find
 2. Put your input data in cvs format into the _/data_ folder
 3. Execute _extractMutations.R_ script
 4. Check the results in _results.csv_ file
+
 ### Remarks
 The input CSV file should contain at least 2 columns: _Disease_ and _SNP_, for the disease names and SNP id's respectively.
+There is a nuber of example csv files in the _/data_ folderwith the Disease-SNP mappings obtained from http://www.eupedia.com/genetics/medical_dna_test.shtml
