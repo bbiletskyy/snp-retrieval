@@ -1,3 +1,4 @@
+#Use library RJSONIO
 library(RJSONIO)
 #Returns creates an url
 urlFomSnpId <- function(rs){
