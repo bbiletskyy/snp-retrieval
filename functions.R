@@ -1,3 +1,4 @@
+library(RJSONIO)
 #Returns creates an url
 urlFomSnpId <- function(rs){
   return(paste('http://www.ncbi.nlm.nih.gov/projects/SNP/snp_gene.cgi?rs=', rs, sep=""))  
