@@ -46,3 +46,31 @@ geneModelsFromAssembly <- function(assembly){
     return(NULL)
   }
 }
+
+#Removes "rs" prefix from snp-id and returns pure integer id 
+noRsPrefix <- function(rsId) {
+  prefix = "rs"
+  id <- tolower(rsId)
+  pos <- regexpr(prefix, id)
+  if(pos != -1) {
+    return(substr(id, pos + nchar(prefix), nchar(id)))
+  } else {
+    return(as.character(id))  
+  }
+}
+
+#Returns a new interer SNP-id into which the provided rsId was merged, using the provided table of merges.
+#The table of merges must contain "from", "to" and "current" columns. 
+merged <- function(rsId, merges = NULL) {
+  id <- noRsPrefix(rsId)
+  mergedRs <- merges[merges$from == id, ]
+  if(nrow(mergedRs) > 0) {
+    idNew <- mergedRs[1, "current"]
+    if(is.na(idNew)) {
+      idNew <- mergedRs[1, "to"]
+    } 
+    return(idNew)
+  } else {
+    return(rsId)
+  }
+}
